@@ -25,3 +25,26 @@ The purpose of this repository is to track my progress while learning Python and
 ## 🚀 Author
 
 Beginner Python student learning programming step by step.
+                    <.............>
+
+
+🔹 Day 2: Data Types & Operators
+Data Types: Working with Integers, Floats, and Strings.
+
+Type Casting: Converting user input using int() and float().
+
+Arithmetic Operators: * Addition (+), Subtraction (-), Multiplication (*)
+
+Division (/), Modulus (%), Exponentiation (**)
+
+Project: Developed a multi-operation calculator that processes two numbers simultaneously.
+
+day2_datatypes/: Advanced arithmetic and type conversion practice (contains 6 files).
+
+🛠️ Tools Used
+Python 3.13
+
+VS Code
+
+Git & GitHub
+
