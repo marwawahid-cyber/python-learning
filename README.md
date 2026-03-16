@@ -29,17 +29,21 @@ Beginner Python student learning programming step by step.
 
 
 🔹 Day 2: Data Types & Operators
-Data Types: Working with Integers, Floats, and Strings.
 
-Type Casting: Converting user input using int() and float().
+## 📚 Topics Covered
 
-Arithmetic Operators: * Addition (+), Subtraction (-), Multiplication (*)
+*Data Types: Working with Integers, Floats, and Strings.
 
-Division (/), Modulus (%), Exponentiation (**)
+*Type Casting: Converting user input using int() and float().
 
-Project: Developed a multi-operation calculator that processes two numbers simultaneously.
+*Arithmetic Operators: * Addition (+), Subtraction (-), Multiplication (*)
 
-day2_datatypes/: Advanced arithmetic and type conversion practice (contains 6 files).
+*Division (/), Modulus (%), Exponentiation (**)
+
+## 📂 Files
+
+*Project: Developed a multi-operation calculator that processes two numbers simultaneously.
+*day2_datatypes/: Advanced arithmetic and type conversion practice (contains 6 files).
 
 🛠️ Tools Used
 Python 3.13
@@ -47,4 +51,9 @@ Python 3.13
 VS Code
 
 Git & GitHub
+
+## 🚀 Author
+
+Beginner Python student learning programming step by step.
+                           <...............>
 
