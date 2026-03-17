@@ -36,7 +36,7 @@ Beginner Python student learning programming step by step.
 
 *Type Casting: Converting user input using int() and float().
 
-*Arithmetic Operators: * Addition (+), Subtraction (-), Multiplication (*)
+*Arithmetic Operators:  Addition (+), Subtraction (-), Multiplication (*)
 
 *Division (/), Modulus (%), Exponentiation (**)
 
