@@ -1,4 +1,6 @@
 # Python Basics Practice 🐍
+day1:
+
 
 This repository contains my practice codes while learning Python.
 
@@ -27,6 +29,7 @@ The purpose of this repository is to track my progress while learning Python and
 Beginner Python student learning programming step by step.
                     <.............>
 
+# Python Basics Practice 🐍
 
 🔹 Day 2: Data Types & Operators
 
@@ -45,15 +48,25 @@ Beginner Python student learning programming step by step.
 *Project: Developed a multi-operation calculator that processes two numbers simultaneously.
 *day2_datatypes/: Advanced arithmetic and type conversion practice (contains 6 files).
 
-🛠️ Tools Used
-Python 3.13
+Progress: 2 Lectures Complete! ✅
 
-VS Code
-
-Git & GitHub
-
-## 🚀 Author
-
-Beginner Python student learning programming step by step.
                            <...............>
+Python Day 3 🐍
 
+Learning the basics of string formatting and variables.
+
+📝 What's Inside:
+1.py: Practice with Escape Sequences (\n, \t, \\) and single/multi-line comments.
+
+project.py: A Mini Receipt Generator that uses variables, math (+), and f-strings to format data.
+
+🚀 Key Takeaways:
+Using \t for alignment and \n for new lines.
+
+Calculating totals using integer variables.
+
+Formatting output with triple quotes """ and f-strings.
+
+Progress: 3 Lectures Complete! ✅
+
+                            <...............>
